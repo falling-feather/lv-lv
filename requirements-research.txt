@@ -1,0 +1,2 @@
+# Optional reproducible offline model generation. Browser playback needs no Python.
+numpy==2.3.5

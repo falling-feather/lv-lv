@@ -1,0 +1,22 @@
+{
+  "tool": "4.5.14 LTS",
+  "source": "assets/source/workshop-bell.blend",
+  "script": "scripts/build_assets.py",
+  "reference": "https://www.chnmuseum.cn/portals/0/web/zt/202409fhgg/#102",
+  "vertices": 14577,
+  "triangles": 28132,
+  "textures": [
+    "bronze_color",
+    "bronze_roughness",
+    "bronze_normal"
+  ],
+  "sha256": "c622c6174f9d970c4567d88f61b5f613563df59f8f3b74525a081cc23cef85bf",
+  "files": {
+    "bell-study.png": 1046157,
+    "bronze_color.png": 2736620,
+    "bronze_normal.png": 1423127,
+    "bronze_roughness.png": 613300,
+    "workshop-bell.glb": 5685744
+  },
+  "scope": "original visual reconstruction; ornament and crown not acoustically calibrated"
+}

@@ -1,0 +1,35 @@
+{
+  "quadratureChecks": {
+    "0:0:0": {
+      "hz": [
+        658.30026,
+        827.47702
+      ],
+      "quadratureDifferenceCents": [
+        0.4067,
+        0.06071
+      ]
+    },
+    "3:3:3": {
+      "hz": [
+        631.16256,
+        778.36461
+      ],
+      "quadratureDifferenceCents": [
+        0.20826,
+        0.02359
+      ]
+    },
+    "5:5:5": {
+      "hz": [
+        615.16448,
+        746.74239
+      ],
+      "quadratureDifferenceCents": [
+        -0.05848,
+        -0.12168
+      ]
+    }
+  },
+  "materialNote": "E=100 GPa, nu=.34, rho=8800 kg/m3 are nominal design assumptions, not measured artifact parameters."
+}
